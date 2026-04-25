@@ -26,6 +26,10 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+###🛠️Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode," />
+</p>
 ---
 
 ## 📊 GitHub Stats
