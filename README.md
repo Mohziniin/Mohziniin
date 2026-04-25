@@ -11,7 +11,7 @@
 
 ---
 
-########################################################################### 🫂Favorites
+<h3 align="center">🫂Favorites</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
 </p>
