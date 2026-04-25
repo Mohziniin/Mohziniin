@@ -12,8 +12,8 @@
 ---
 
 ### 🫂Favorites
-<p>
-  <img align="center" src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
 </p>
 
 ---
