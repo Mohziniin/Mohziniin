@@ -27,7 +27,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,python,dart" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,php,python,dart" />
 </p>
 
 ### 🗄️ Databases
