@@ -11,6 +11,13 @@
 
 ---
 
+🫂Favorite Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c#,js" />
+</p>
+
+---
+
 ##  Tech Stack
 
 ### 💻 Frontend
