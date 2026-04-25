@@ -11,9 +11,9 @@
 
 ---
 
-🫂Favorite Language
+### 🫂Favorites
 <p>
-<img src="https://skillicons.dev/icons?i=c#,js" />
+  <img src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
 </p>
 
 ---
