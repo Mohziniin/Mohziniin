@@ -53,6 +53,3 @@
 - Build scalable real-world systems
 
 ---
-
-## 📫 Contact Me
-- GitHub: https://github.com/Mohziniin
