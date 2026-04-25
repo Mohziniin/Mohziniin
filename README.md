@@ -13,7 +13,7 @@
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,vite,flutter" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,vite,flutter,django" />
 </p>
 
 ### ⚙️ Backend
