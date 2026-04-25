@@ -23,7 +23,7 @@
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=sql,mongodb" />
+<img src="https://skillicons.dev/icons?i=dotnet,mongodb" />
 </p>
 
 ---
