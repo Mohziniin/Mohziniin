@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello, I'm MO7SIن</h1>
+<h1 align="center">🙋‍♂️Hello, I'm MO7SIن</h1>
 <p align="center"><strong>Software Engineer | Full Stack Developer | .NET Specialist</strong></p>
 
 ---
