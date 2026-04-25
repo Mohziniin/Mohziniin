@@ -1,24 +1,24 @@
-<h1 align="center">🙋‍♂️Hello, I'm MO7SIن</h1>
+<h1 align="center">🙋‍♂️ Hello, I'm MO7SIن</h1>
 <p align="center"><strong>Software Engineer | Full Stack Developer | .NET Specialist</strong></p>
 
 ---
 
-## 🚀 About Me
-- 💻 I build full-stack web applications
+## 👤 About Me
+- 👨‍💻 I build full-stack web applications
 - ⚙️ Backend with ASP.NET Core & Node.js
 - 🎨 Frontend with React, Tailwind & Bootstrap
-- 🧠 Always learning new technologies
+- 🎓 Always learning new technologies
 
 ---
 
-<h3 align="center">🫂Favorites</h3>
+<h3 align="center">⭐ Favorites</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
 </p>
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
 <p>
@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-🛠️Tools
+🔧 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,vscode,postman,github" />
 </p>
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔥 Top Languages
+## 📈 Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohziniin&layout=compact&theme=tokyonight" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📧 Contact Me
 <p align="center">
   <a href="mailto:your.mohzinab7836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
