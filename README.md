@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm MO7SIن</h1>
-<p><strong>Software Engineer | Full Stack Developer | .NET Specialist</strong></p>
+<p align="center"><strong>Software Engineer | Full Stack Developer | .NET Specialist</strong></p>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### 🫂Favorites
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
+  <img align="center" src="https://skillicons.dev/icons?i=cs,js,dotnet,react" />
 </p>
 
 ---
