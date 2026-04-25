@@ -13,7 +13,7 @@
 
 🫂Favorite Language
 <p>
-<img src="https://skillicons.dev/icons?i=csharb,js" />
+<img src="https://skillicons.dev/icons?i=c#,js" />
 </p>
 
 ---
